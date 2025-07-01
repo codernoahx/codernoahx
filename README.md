@@ -28,14 +28,14 @@ Feel free to explore my repositories and don't hesitate to reach out. Connect wi
 
 Keep coding, stay curious, and never stop learning! 🚀✨
 
-![Nomaan's Streak](https://streak-stats.demolab.com?user=coder-nian&theme=radical&card_width=1080)
+![Nomaan's Streak](https://streak-stats.demolab.com?user=codernoahx&theme=radical&card_width=1080)
 
-![Nomaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-nian&show_icons=true&theme=radical&card_width=1080)
+![Nomaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=codernoahx&show_icons=true&theme=radical&card_width=1080)
 
-![Nomaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coder-nian&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
+![Nomaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codernoahx&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
 
-![Nomaan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-nian&layout=compact&theme=radical&card_width=1080)
+![Nomaan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codernoahx&layout=compact&theme=radical&card_width=1080)
 
 [![Nomaan's Holopin board](https://holopin.me/nian)](https://holopin.io/@nian)
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=coder-nian&label=Profile%20views&color=0e75b6&style=flat" alt="coder-nian" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=codernoahx&label=Profile%20views&color=0e75b6&style=flat" alt="codernoahx" /></p>
